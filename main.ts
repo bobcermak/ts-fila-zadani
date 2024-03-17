@@ -60,19 +60,6 @@ type Lidi = {
 let prumer: number = xCelkBest / xPocet 
 
 
-console.log(outputBest)
-console.log(outputBest2)
-console.log(prumer)
-
-
-
-
-
-
-
-
-
-
 
 /*OUTPUT*/
 
@@ -81,5 +68,7 @@ console.log(prumer)
 /*Vypište průmět stromů, který dohromady zvládnou*/
 
 
-
+console.log(outputBest)
+console.log(outputBest2)
+console.log(prumer)
 
